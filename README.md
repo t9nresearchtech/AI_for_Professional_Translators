@@ -4,7 +4,7 @@ Sai-cheong SIU scsiu@hsu.edu.hk (Version: 28 May 2022)
 
 ## Description
 
-Abridged version of the PowerPoint presentation file for the HKTS online talk on translation technology held on 28 May 2022
+Abridged version of the PowerPoint presentation file for the [HKTS online talk on translation technology](https://www.hkts.org.hk/events/2040) held on 28 May 2022
 
 ## Abstract
 
@@ -12,7 +12,7 @@ With recent advances in artificial intelligence and big data, professional trans
 
 ## Download
 
-Click [here](https://github.com/siusaicheong/where_NMT_and_MT_meet/blob/main/Where%20NMT%20and%20TM%20meet_siusaicheong_Dec2021.pdf) to view/download the presentation file.
+Click [here](https://github.com/t9nresearchtech/AI_for_Professional_Translators/blob/main/AI%20for%20Professional%20Translators_28%20May%202022.pdf) to view/download the presentation file.
 
 ## Citation
 
